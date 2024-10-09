@@ -18,11 +18,20 @@ Hedef değişken "outcome" olarak belirtilmiş olup; 1 diyabet test sonucunun po
 # Features
 
 Pregnancies: Hamilelik sayısı
+
 Glucose: Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu
+
 Blood Pressure: Kan Basıncı (Küçük tansiyon) (mm Hg)
+
 SkinThickness: Cilt Kalınlığı
+
 Insulin: 2 saatlik serum insülini (mu U/ml)
+
 DiabetesPedigreeFunction: Fonksiyon (Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu)
+
 BMI: Vücut kitle endeksi
+
 Age: Yaş (yıl)
+
 Outcome: Hastalığa sahip (1) ya da değil (0)
+
